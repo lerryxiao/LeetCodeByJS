@@ -1,0 +1,29 @@
+{
+  "name": "leetcode-javascript",
+  "version": "0.0.1",
+  "description": "leetCode javaScript exercise",
+  "author": "lerry xiao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lerryxiao/leetCodeJS.git"
+  },
+  "keywords": [
+    "leetCode"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lerryxiao/leetCodeJS/issues"
+  },
+  "homepage": "https://github.com/lerryxiao/leetCodeJS#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
